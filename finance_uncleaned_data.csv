@@ -1,0 +1,511 @@
+TransactionID,Date,Account,Category,Amount,Currency,Merchant,Description,TransactionType,Balance,Status
+TX467335,07/16/2025,Credit Card,Utilities,"$8,109.12",EUR,Water Board,Utilities payment to Water Board,debit,825.98,Pending
+TX345180,27-04-2025,Credit Card,Rent,"4,533.55",EUR,Local Market,"Rent payment to Local Market, urgent",credit,"49,776.01",completed
+TX618172,26-01-2025,Savings,,"$6,128.45",,Uber,Dining payment to Uber,DEBIT,19803.72,pendng
+TX189374,09/29/2024,BUSINESS_ACC,,3423.50 USD,USD,Electric Co,Utilities payment to Electric Co,CR,23388.54,Reconciled
+TX811332,01/30/2025,Payroll,Travel,"-4,654.17",USD,Starbucks,Travel payment to Starbucks,credit,12027,CANCELLED
+TX272117,18-May-25,Current,Refund,INR 8583,USD,Electric Co,Refund payment to Electric Co,credit,22208.01,Failed
+TX792094,16-Jul-24,Credit Card,Insurance,414.98 USD,INR,Electric Co,Insurance payment to Electric Co,refund,962.14,Failed
+TX543973,06-04-2025,Savings,Investment,4437.59usd,INR,Starbucks,Investment payment to Starbucks,refund,-2923.89,Pending
+TX348636,26.02.2025,Checking,INVESTMENT,INR 13918,INR,Flipkart,INVESTMENT payment to Flipkart,CR,"5,678.52",Failed
+TX760914,22-10-2025,checking,Salary,1380.59usd,,Local Market,"Salary payment to Local Market, urgent",debit,4239.41,Reconciled
+TX165142,14-11-2025,BUSINESS_ACC,Dining,3313.52 USD,USD,Airbnb,Dining payment to Airbnb,CR,17871.51,completed
+,,Chcking,??,free,XYZ,,###,,NaN,
+TX297062,19-04-2024,Payroll,Refund,"$3,464.45",INR,Uber,Refund payment to Uber,debit,22627.85,Failed
+TX900681,12-01-2024,Savings,Groceries,10451.44usd,INR,Electric Co,Groceries payment to Electric Co,debit,,CANCELLED
+TX181670,08-08-2025,Checking,Insurance,"6,976.95",EUR,Flipkart,Insurance payment to Flipkart,DEBIT,-4561.7,Failed
+TX919394,05-11-2025,Current,Groceries,"12,160.53",USD,Uber,Groceries payment to Uber,CR,"49,978.32",pendng
+TX806357,06-Feb-25,Checking,Dining,INR 1239,INR,Starbucks,Dining payment to Starbucks,debit,16918.99,CANCELLED
+TX334981,05/13/2025,Checking,Insurance,"-13,105.56",USD,Starbucks,Insurance payment to Starbucks,debit,"20,142.46",Completed
+TX838862,07/22/2024,Current,Salary,"$8,911.06",INR,Uber,Salary payment to Uber,CR,3993.25,pendng
+,,SAV,??,$-,,,,,NaN,unknown
+TX778827,18-08-2024,payroll,Groceries,"$9,017.53",,Starbucks,Groceries payment to Starbucks,DEBIT,"34,200.73",Reconciled
+TX139211,25-07-2024,Current,Utilities,7854.90 USD,,Local Market,Utilities payment to Local Market,debit,32219.45,Reconciled
+TX311037,03-11-2024,BUSINESS_ACC,Refund,"5,035.57",INR,Water Board,Refund payment to Water Board,DEBIT,"38,405.53",Completed
+TX668950,18-Apr-25,Payroll,Investment,"1,966.07",USD,,Investment payment to Uber,CR,"28,487.94",completed
+TX989838,22-05-2025,credit card,Transfer,14029.28usd,,Water Board,Transfer payment to Water Board,credit,"18,210.25",pendng
+TX935981,06-02-2024,Current,Insurance,"-6,209.88",,Local Market,Insurance payment to Local Market,DEBIT,,completed
+TX862491,14-05-2024,Savings,Groceries,INR 9347,INR,Airbnb,Groceries payment to Airbnb,debit,-3914.2,Reconciled
+TX870269,05.12.2024,Savings,Groceries,"$8,320.82",INR,Amazon,Groceries payment to Amazon,CR,"37,104.30",Pending
+TX869440,18-06-2025,Payroll,Investment,12775.85 USD,,Water Board,Investment payment to Water Board,CR,"28,568.24",CANCELLED
+TX900961,02/16/2025,Payroll,Insurance,"11,466.30",EUR,Flipkart,Insurance payment to Flipkart,refund,48629.55,Failed
+TX395548,24.06.2024,Checking,Insurance,"8,841.12",INR,Local Market,Insurance payment to Local Market,debit,"15,878.83",Completed
+TX890170,30-08-2024,Current,Utilities,INR 11761,USD,Flipkart,Utilities payment to Flipkart,CR,38084.88,Pending
+TX536019,08-02-2025,BUSINESS_ACC,Salary,1868.04 USD,EUR,WALMART,Salary payment to WALMART,CR,36336.76,pendng
+TX760929,01-10-2024,Payroll,Refund,"-1,574.61",EUR,Flipkart,Refund payment to Flipkart,debit,28495.1,Pending
+TX810029,??/??/????,BUSINESS_ACC,Travel,"9,241.52",USD,Starbucks,Travel payment to Starbucks,credit,36384.51,Reconciled
+TX413685,16-Oct-25,Credit Card,Transfer,INR 8579,EUR,Amazon,"Transfer payment to Amazon, urgent",DEBIT,,CANCELLED
+TX549433,18.05.2024,Current,Investment,"14,268.11",INR,Flipkart,Investment payment to Flipkart,debit,"-2,135.29",Completed
+,,,??,0,,???,,,NaN,
+TX158840,14-10-2025,Current,Travel,"$13,787.36",USD,Amazon,Travel payment to Amazon,refund,-910.86,completed
+TX499152,Apr 22 2025,Credit Card,Investment,"$4,804.18",,Local Market,Investment payment to Local Market,DEBIT,"7,170.08",completed
+TX373791,28-Jun-24,Payroll,Salary,INR 12197,EUR,Airbnb,Salary payment to Airbnb,CR,37348.2,Reconciled
+TX342720,22-10-2024,Checking,Dining,"14,005.09",,Water Board,Dining payment to Water Board,refund,"9,609.79",CANCELLED
+TX267800,24-01-2024,Credit Card,Dining,900.13,INR,,Dining payment to Electric Co,refund,"30,802.93",pendng
+TX716482,25.12.2024,Savings,Rent,INR 7984,EUR,WALMART,Rent payment to WALMART,credit,10913.33,pendng
+TX674416,17-11-2024,Savings,Refund,"-1,990.94",,Shell,Refund payment to Shell,credit,12730.98,Reconciled
+TX183952,25-05-2024,Credit Card,Salary,"-7,087.30",EUR,Water Board,Salary payment to Water Board,debit,26879.56,completed
+TX625721,03-06-2024,Credit Card,Salary,10614.62usd,,Starbucks,Salary payment to Starbucks,refund,10559.15,completed
+TX898975,Jul 01 2024,Credit Card,Insurance,2424.07usd,USD,Starbucks,Insurance payment to Starbucks,debit,1152.72,CANCELLED
+TX215266,??/??/????,Savings,Groceries,"$6,314.99",,WALMART,Groceries payment to WALMART,debit,23228.09,completed
+TX761519,01-02-2025,Savings,Travel,265.71 USD,EUR,Local Market,Travel payment to Local Market,refund,"27,310.77",completed
+TX516866,05-08-2024,Payroll,Salary,3523.39usd,USD,WALMART,Salary payment to WALMART,refund,-4705.15,Reconciled
+TX288656,??/??/????,checking,Salary,"10,879.03",INR,Local Market,"Salary payment to Local Market, urgent",debit,46617.8,completed
+TX424008,20-06-2025,Savings,Refund,"-7,994.89",,Shell,Refund payment to Shell,credit,43407.25,Reconciled
+TX182868,20-Dec-24,Savings,Insurance,"-2,059.96",USD,Electric Co,"Insurance payment to Electric Co, urgent",credit,"7,411.94",Failed
+TX695148,02-02-2024,Credit Card,Refund,"$14,702.60",INR,Water Board,"Refund payment to Water Board, urgent",CR,21112.77,pendng
+TX819064,24.02.2025,BUSINESS_ACC,Utilities,"2,980.76",USD,Shell,Utilities payment to Shell,credit,"40,907.35",Completed
+TX133659,19-Nov-24,Payroll,Travel,INR 13718,EUR,Local Market,Travel payment to Local Market,DEBIT,24643.75,completed
+T-424960,Mar 21 2024,Savings,Transfer,6562.85 USD,INR,Amazon,Transfer payment to Amazon,credit,19935.45,pendng
+TX539122,04-Jun-24,Payroll,Groceries,"-4,876.42",EUR,Electric Co,Groceries payment to Electric Co,DEBIT,24321.99,CANCELLED
+TX307897,25-09-2024,Payroll,Dining,"$8,509.08",,Shell,Dining payment to Shell,refund,"19,953.93",pendng
+TX681542,14.02.2024,Credit Card,Insurance,"2,867.36",INR,WALMART,Insurance payment to WALMART,debit,1846.13,pendng
+TX132663,03-Mar-24,Checking,Investment,"$2,225.86",USD,Amazon,Investment payment to Amazon,refund,12885.2,Reconciled
+TX133795,22.02.2025,Current,Rent,"14,320.53",EUR,Amazon,Rent payment to Amazon,refund,20164.97,Completed
+TX358494,Oct 12 2024,Credit Card,Rent,5232.70usd,,Local Market,Rent payment to Local Market,DEBIT,24875.5,Failed
+TX705748,16-11-2024,Payroll,Dining,7582.16 USD,,Amazon,"Dining payment to Amazon, urgent",DEBIT,27863.53,Failed
+TX423139,??/??/????,Savings,Groceries,904.77usd,EUR,Amazon,"Groceries payment to Amazon, urgent",CR,37293.46,pendng
+,32/13/2024,SAV,??,0,XYZ,???,,,NaN,
+TX287588,25-07-2025,BUSINESS_ACC,Investment,"$2,502.97",EUR,Flipkart,Investment payment to Flipkart,CR,24364.53,Failed
+TX830322,15-05-2025,Current,Rent,INR 862,INR,Electric Co,Rent payment to Electric Co,credit,"16,510.79",Reconciled
+TX287974,19-04-2024,Payroll,Travel,INR 14389,EUR,Flipkart,Travel payment to Flipkart,credit,32622.29,CANCELLED
+TX972496,22-Mar-24,Payroll,Transfer,"$3,987.97",INR,WALMART,Transfer payment to WALMART,debit,"6,874.50",Pending
+TX772036,25-11-2024,Checking,Utilities,"$7,281.07",INR,WALMART,Utilities payment to WALMART,refund,21945.03,Completed
+TX255245,05-06-2024,Savings,Insurance,INR 8785,USD,Water Board,Insurance payment to Water Board,debit,17903.04,pendng
+TX578472,21-12-2024,Current,Utilities,INR 10998,USD,Starbucks,Utilities payment to Starbucks,credit,33425.46,Pending
+TX829169,10-Sep-25,Current,Investment,INR 9068,EUR,Uber,Investment payment to Uber,credit,"45,961.04",Completed
+TX536774,08/20/2025,BUSINESS_ACC,Refund,INR 10821,USD,Water Board,Refund payment to Water Board,credit,37603.34,Pending
+TX347428,10-Oct-25,Credit Card,Transfer,"-8,716.57",USD,WALMART,Transfer payment to WALMART,credit,3673.42,CANCELLED
+TX234476,07-03-2024,Savings,Dining,INR 10395,EUR,WALMART,Dining payment to WALMART,DEBIT,-4892.48,pendng
+TX843215,22-03-2025,BUSINESS_ACC,Rent,"-13,811.64",EUR,Amazon,Rent payment to Amazon,debit,12010.66,Failed
+TX701800,May 20 2024,Credit Card,SALARY,INR 5805,INR,Starbucks,SALARY payment to Starbucks,DEBIT,6801.37,Reconciled
+TX552275,31-10-2025,Checking,Rent,"-10,830.85",EUR,Flipkart,Rent payment to Flipkart,DEBIT,16609.62,Completed
+TX122056,Aug 25 2025,Checking,Groceries,"$1,063.79",EUR,WALMART,Groceries payment to WALMART,CR,46453.28,CANCELLED
+T-344119,02-04-2024,Current,Investment,$477.03,INR,Local Market,"Investment payment to Local Market, urgent",credit,"-1,073.84",CANCELLED
+TX802382,Dec 12 2024,Checking,Rent,12396.74usd,,Flipkart,Rent payment to Flipkart,debit,41686.51,Completed
+TX712916,Mar 22 2025,Credit Card,Insurance,"9,050.34",INR,Starbucks,Insurance payment to Starbucks,debit,2953.02,completed
+TX138669,09/27/2025,Checking,Investment,"5,702.92",,Airbnb,Investment payment to Airbnb,credit,-2498.34,Failed
+TX690982,14-10-2025,Credit Card,Rent,2559.33usd,EUR,Local Market,Rent payment to Local Market,refund,31280.68,Failed
+TX542904,Jan 14 2024,Checking,Rent,"$10,251.17",INR,Starbucks,Rent payment to Starbucks,debit,,CANCELLED
+TX390794,02-11-2025,Savings,Rent,"8,661.81",EUR,Flipkart,Rent payment to Flipkart,CR,38702.92,pendng
+TX582515,18.02.2025,BUSINESS_ACC,Refund,"-10,107.37",INR,Water Board,Refund payment to Water Board,DEBIT,5494.11,Pending
+TX185569,18-01-2025,BUSINESS_ACC,Utilities,7087.35usd,,Airbnb,Utilities payment to Airbnb,CR,-642.58,completed
+TX730193,06-09-2025,business_acc,Dining,"11,217.91",,Water Board,Dining payment to Water Board,debit,"8,163.76",pendng
+TX217771,05-05-2025,credit card,Refund,"-4,896.17",EUR,Local Market,Refund payment to Local Market,refund,,completed
+TX102593,05-04-2024,BUSINESS_ACC,Salary,"$6,445.22",USD,Flipkart,Salary payment to Flipkart,DEBIT,25102.08,CANCELLED
+TX988980,11/20/2024,Credit Card,Refund,7466.62usd,EUR,Electric Co,Refund payment to Electric Co,credit,,pendng
+TX555844,18-12-2024,Payroll,Utilities,"$8,233.73",EUR,WALMART,Utilities payment to WALMART,refund,"42,368.63",pendng
+TX282480,Sep 22 2025,Checking,Rent,"4,834.42",INR,Water Board,Rent payment to Water Board,credit,47790.76,Failed
+TX276795,13.08.2025,Checking,,"$7,161.53",INR,,Transfer payment to Flipkart,refund,-4225.76,Pending
+TX824161,04-10-2025,BUSINESS_ACC,Salary,"5,208.71",INR,Water Board,"Salary payment to Water Board, urgent",DEBIT,-4304.13,Reconciled
+TX951755,Jul 03 2025,Savings,Travel,"-14,754.14",,Water Board,Travel payment to Water Board,DEBIT,-4419.87,completed
+TX830322,15.05.2025,BUSINESS_ACC,INSURANCE,5295.57usd,USD,Local Market,INSURANCE payment to Local Market,DEBIT,"39,652.83",Failed
+TX110215,29-Jun-24,BUSINESS_ACC,Travel,"$12,877.67",,Airbnb,Travel payment to Airbnb,debit,39759.99,Reconciled
+TX393804,18-08-2024,Savings,Transfer,"10,298.16",INR,Water Board,Transfer payment to Water Board,refund,45035.45,Pending
+TX813884,15-02-2025,BUSINESS_ACC,Investment,"12,260.97",,Shell,Investment payment to Shell,DEBIT,"32,666.86",Failed
+TX740524,19-07-2024,Savings,Rent,-698.46,EUR,,Rent payment to Amazon,debit,"31,215.12",Reconciled
+TX427617,06.12.2024,Payroll,Investment,INR 13795,EUR,Amazon,Investment payment to Amazon,CR,37157.14,Pending
+,2024-99-99,,??,0,XYZ,???,,,,unknown
+TX486028,20-11-2025,Checking,Investment,4326.30 USD,INR,Flipkart,Investment payment to Flipkart,DEBIT,3277.39,Completed
+TX488368,14-02-2024,Current,Transfer,INR 2009,USD,Water Board,Transfer payment to Water Board,credit,"27,906.08",Completed
+TX419484,30-01-2024,BUSINESS_ACC,Rent,"-1,180.00",,Uber,"Rent payment to Uber, urgent",debit,"18,718.61",pendng
+TX307007,17-Aug-25,BUSINESS_ACC,Salary,INR 4767,EUR,Amazon,Salary payment to Amazon,refund,3381.72,Reconciled
+TX564478,10-09-2024,BUSINESS_ACC,Insurance,"10,221.95",INR,Uber,Insurance payment to Uber,DEBIT,"35,959.85",Reconciled
+TX361303,04-May-24,Payroll,Refund,INR 10789,INR,Local Market,Refund payment to Local Market,refund,42382.22,CANCELLED
+TX507341,09-Jan-24,Credit Card,Rent,9470.66usd,USD,Starbucks,Rent payment to Starbucks,CR,-594.8,pendng
+TX265613,20-02-2025,Current,Dining,INR 1342,EUR,WALMART,Dining payment to WALMART,refund,-2948.6,CANCELLED
+TX301863,Nov 24 2024,Payroll,Salary,"$6,363.72",,Uber,Salary payment to Uber,refund,35775.63,Completed
+TX335552,22-07-2024,Current,Salary,INR 10445,EUR,Water Board,Salary payment to Water Board,credit,44096.29,CANCELLED
+TX144008,03-06-2025,Savings,Utilities,7476.37 USD,,,Utilities payment to Local Market,DEBIT,41672.73,CANCELLED
+TX888870,Mar 05 2024,Savings,Rent,7342.77 USD,USD,Airbnb,Rent payment to Airbnb,CR,14135.86,CANCELLED
+TX370948,11-10-2024,Checking,Investment,"-1,259.86",USD,WALMART,Investment payment to WALMART,CR,43714.56,CANCELLED
+TX367508,Apr 15 2024,BUSINESS_ACC,Groceries,"7,077.00",,WALMART,Groceries payment to WALMART,credit,-3055,pendng
+TX591465,07-11-2024,Payroll,Salary,"$9,056.10",INR,Flipkart,Salary payment to Flipkart,credit,26635.95,pendng
+TX795928,29-10-2025,Payroll,Travel,"$13,656.71",,Local Market,Travel payment to Local Market,credit,3489.87,Failed
+TX333524,17-07-2025,Checking,Refund,INR 1781,INR,Local Market,Refund payment to Local Market,debit,,Completed
+TX900962,Oct 25 2025,Checking,Dining,"13,840.51",USD,Amazon,Dining payment to Amazon,CR,37356.58,Failed
+TX161775,09/21/2025,Credit Card,Travel,14123.72 USD,USD,Shell,Travel payment to Shell,credit,22113.87,Completed
+TX315667,13-Nov-24,Savings,Dining,"$6,884.89",USD,Electric Co,Dining payment to Electric Co,credit,28266.67,completed
+TX720517,Jun 01 2024,checking,Investment,INR 7967,INR,Electric Co,Investment payment to Electric Co,debit,,pendng
+TX355528,15-07-2025,Credit Card,Refund,"-5,133.67",EUR,Flipkart,Refund payment to Flipkart,debit,41021.15,Failed
+TX245121,13-09-2024,Payroll,Insurance,"2,405.52",,Airbnb,Insurance payment to Airbnb,refund,47052.73,Failed
+TX977345,15-04-2025,Current,Transfer,4528.68usd,EUR,Starbucks,Transfer payment to Starbucks,debit,"15,451.41",Reconciled
+TX868473,12-05-2024,BUSINESS_ACC,Rent,"-2,754.00",INR,Flipkart,"Rent payment to Flipkart, urgent",CR,"29,890.18",Completed
+TX609597,11.03.2024,BUSINESS_ACC,Insurance,"$6,347.65",INR,Electric Co,Insurance payment to Electric Co,refund,34212.19,Failed
+TX144284,05.11.2024,BUSINESS_ACC,Groceries,14340.44 USD,,Starbucks,Groceries payment to Starbucks,DEBIT,"32,831.38",Failed
+TX857501,10-Aug-24,Checking,Salary,INR 4890,EUR,Electric Co,Salary payment to Electric Co,DEBIT,-3530.52,Reconciled
+TX159942,Feb 21 2024,Payroll,Insurance,1020.34 USD,,Starbucks,Insurance payment to Starbucks,refund,29065.98,completed
+T-415989,13-09-2025,Current,Groceries,11201.56usd,INR,Electric Co,Groceries payment to Electric Co,DEBIT,32250.9,pendng
+T-322409,25-10-2025,BUSINESS_ACC,Utilities,"$14,376.98",INR,Shell,Utilities payment to Shell,CR,31151.94,Pending
+T-894068,16-07-2024,Current,Insurance,"$2,772.53",,Flipkart,Insurance payment to Flipkart,DEBIT,"16,096.59",Failed
+TX911801,11-02-2025,Checking,Investment,7625.64usd,USD,Starbucks,Investment payment to Starbucks,refund,"3,840.59",Completed
+TX952283,28-09-2024,Savings,,"$11,530.84",USD,Amazon,Utilities payment to Amazon,debit,680.79,Failed
+TX309365,28-08-2024,Savings,Rent,1601.23usd,,Shell,Rent payment to Shell,CR,24781.07,completed
+TX901387,06-07-2025,Savings,Transfer,5209.99usd,,Electric Co,Transfer payment to Electric Co,CR,"20,303.88",Pending
+TX609597,30-08-2025,Payroll,Investment,247.26,INR,Local Market,Investment payment to Local Market,DEBIT,1500.29,Reconciled
+TX343977,Nov 20 2024,Current,Groceries,"$3,761.19",INR,Shell,Groceries payment to Shell,CR,21955.06,Failed
+T-532424,20.05.2024,savings,Insurance,"-10,001.65",EUR,WALMART,"Insurance payment to WALMART, urgent",CR,,pendng
+TX643269,06-05-2024,BUSINESS_ACC,Insurance,INR 9526,,Amazon,Insurance payment to Amazon,credit,138.56,completed
+TX796889,02-03-2025,Current,Insurance,"-6,059.29",,Local Market,Insurance payment to Local Market,debit,47478.54,completed
+TX442230,31-01-2024,Current,Insurance,"8,788.54",USD,Flipkart,Insurance payment to Flipkart,refund,-957.13,CANCELLED
+TX685365,07-04-2024,Credit Card,Insurance,"-13,493.97",USD,Starbucks,Insurance payment to Starbucks,credit,"38,344.97",Failed
+TX541631,30-09-2024,Credit Card,Transfer,"-1,501.75",INR,Amazon,Transfer payment to Amazon,refund,4164.5,Pending
+TX423241,03/31/2025,Checking,Investment,394.9,INR,Electric Co,Investment payment to Electric Co,debit,,Reconciled
+TX262555,04-05-2025,current,Insurance,"9,296.40",,Starbucks,Insurance payment to Starbucks,refund,31205.92,completed
+TX678443,May 12 2024,Current,Investment,1107.19usd,USD,Flipkart,Investment payment to Flipkart,CR,2058.4,completed
+TX121369,28-09-2025,Checking,Rent,"-2,517.67",INR,Airbnb,Rent payment to Airbnb,debit,12107.14,completed
+TX659543,01/24/2025,Current,Groceries,13814.02usd,,Uber,Groceries payment to Uber,CR,"33,714.00",Failed
+TX303993,27-05-2025,Credit Card,Utilities,14807.89usd,INR,Uber,Utilities payment to Uber,credit,37841.76,Pending
+TX385166,27-08-2024,Payroll,Salary,"1,811.93",,Local Market,Salary payment to Local Market,credit,41886.52,Failed
+TX566732,30.03.2024,Credit Card,Salary,"-12,770.58",EUR,Airbnb,Salary payment to Airbnb,credit,"1,674.94",CANCELLED
+TX552275,27-04-2024,BUSINESS_ACC,INVESTMENT,"10,704.01",INR,Electric Co,INVESTMENT payment to Electric Co,CR,,Completed
+TX211028,12/31/2024,credit card,Rent,"-4,177.59",USD,Amazon,Rent payment to Amazon,credit,22476.68,CANCELLED
+TX372935,Jun 22 2024,Current,Travel,"$1,753.51",,Flipkart,Travel payment to Flipkart,credit,10455.04,Failed
+TX476948,17-05-2024,Current,Dining,9099.81usd,EUR,Amazon,Dining payment to Amazon,credit,35344.95,Completed
+TX296242,10-08-2024,Payroll,,"$8,260.78",,Local Market,Rent payment to Local Market,DEBIT,"30,345.89",CANCELLED
+TX461076,15-11-2024,Credit Card,Groceries,INR 7804,USD,Airbnb,Groceries payment to Airbnb,CR,13850.31,Pending
+TX756470,05-07-2025,Savings,Groceries,INR 6679,EUR,Starbucks,Groceries payment to Starbucks,debit,6073.61,Completed
+TX563688,21.09.2025,Savings,Salary,"$10,549.59",,Local Market,Salary payment to Local Market,debit,"6,949.81",completed
+TX430096,15.02.2025,Checking,,14700.73usd,INR,WALMART,Utilities payment to WALMART,DEBIT,33543.47,Failed
+TX493247,01-11-2025,Credit Card,Transfer,INR 8042,,Airbnb,Transfer payment to Airbnb,refund,36523.45,Reconciled
+TX567863,21-10-2025,Payroll,Travel,"$13,214.74",,Flipkart,Travel payment to Flipkart,refund,35702.87,Failed
+TX479818,08-09-2025,Current,Salary,"-8,862.27",EUR,Local Market,"Salary payment to Local Market, urgent",credit,"3,862.10",completed
+TX813612,01-01-2025,Credit Card,Rent,INR 552,INR,Local Market,Rent payment to Local Market,refund,40161.79,completed
+TX540538,30-03-2025,checking,Rent,"6,175.96",,Electric Co,Rent payment to Electric Co,DEBIT,24159.14,completed
+TX489967,22.10.2024,Credit Card,Utilities,4279.41usd,,Starbucks,Utilities payment to Starbucks,credit,49657.52,Failed
+TX170835,26-01-2025,BUSINESS_ACC,Travel,146.84 USD,INR,Shell,Travel payment to Shell,debit,"13,809.61",Failed
+TX350224,06-07-2025,Payroll,Rent,INR 13469,,Uber,Rent payment to Uber,CR,13987.46,Completed
+TX558089,16-Oct-25,Payroll,Refund,"12,217.00",INR,Uber,Refund payment to Uber,DEBIT,47183.35,CANCELLED
+TX551607,29-05-2024,Savings,Salary,3613.21 USD,,Flipkart,Salary payment to Flipkart,CR,31676.24,Failed
+TX515011,14-05-2024,checking,Refund,"3,198.10",USD,Amazon,Refund payment to Amazon,DEBIT,15323.99,pendng
+TX394620,08.10.2024,Payroll,Refund,2631.82 USD,EUR,Local Market,Refund payment to Local Market,credit,"13,856.64",CANCELLED
+TX116817,07-03-2025,Savings,Salary,"$12,456.93",USD,Amazon,"Salary payment to Amazon, urgent",credit,39859.34,completed
+TX837880,07-04-2024,Payroll,INVESTMENT,"14,822.34",INR,Shell,INVESTMENT payment to Shell,credit,-86.79,Failed
+TX477214,01-09-2024,Credit Card,Travel,"-7,766.62",EUR,Flipkart,Travel payment to Flipkart,debit,25751.26,CANCELLED
+TX447617,03-07-2025,Credit Card,Refund,INR 9439,,Water Board,"Refund payment to Water Board, urgent",refund,"39,489.27",Completed
+TX820426,31.08.2025,Checking,DINING,"$3,148.48",USD,Airbnb,DINING payment to Airbnb,DEBIT,"19,261.36",Failed
+TX271790,05/23/2025,BUSINESS_ACC,Travel,1771.73 USD,INR,Airbnb,Travel payment to Airbnb,CR,"34,177.78",Reconciled
+TX190047,16.11.2024,BUSINESS_ACC,Investment,2085.11 USD,,Electric Co,Investment payment to Electric Co,debit,14506.43,CANCELLED
+TX551504,13.03.2025,Credit Card,Utilities,INR 6955,,,Utilities payment to Starbucks,CR,"13,327.88",Pending
+TX793193,16.06.2025,Credit Card,Investment,INR 12895,,Electric Co,Investment payment to Electric Co,debit,1552.38,Reconciled
+TX681440,08-09-2024,Credit Card,Groceries,"$11,811.42",USD,Starbucks,Groceries payment to Starbucks,credit,39521.83,CANCELLED
+TX335552,25-02-2024,Payroll,Dining,"$6,495.94",,Local Market,Dining payment to Local Market,debit,29009.21,pendng
+TX693047,22.03.2025,BUSINESS_ACC,Travel,INR 3893,,Water Board,Travel payment to Water Board,credit,"2,452.36",Reconciled
+TX116389,13-05-2025,Checking,Refund,INR 11883,USD,Flipkart,Refund payment to Flipkart,credit,23769.78,completed
+TX578368,12/15/2024,Current,Refund,1711.24 USD,EUR,Shell,Refund payment to Shell,DEBIT,38995.2,Completed
+TX145209,25-02-2024,Credit Card,INVESTMENT,2639.14 USD,,WALMART,"INVESTMENT payment to WALMART, urgent",debit,19465.15,pendng
+TX996865,26.08.2024,BUSINESS_ACC,Utilities,"-10,527.60",USD,Uber,Utilities payment to Uber,credit,20424.31,pendng
+TX238394,31.01.2025,Payroll,Investment,"1,013.92",INR,Amazon,Investment payment to Amazon,debit,16888.63,CANCELLED
+TX542904,14-11-2025,Payroll,Rent,"-2,184.21",INR,Shell,Rent payment to Shell,refund,"22,534.89",completed
+TX414985,08-02-2024,Checking,Travel,13017.60 USD,INR,Flipkart,Travel payment to Flipkart,refund,29770.65,Failed
+TX588148,14-Apr-25,Credit Card,Refund,"$12,825.21",EUR,Water Board,Refund payment to Water Board,refund,"27,536.95",pendng
+TX913575,19-07-2024,Savings,TRANSFER,12593.77usd,INR,Electric Co,TRANSFER payment to Electric Co,debit,"35,594.55",Pending
+TX902716,03.11.2024,Checking,Transfer,"-3,847.44",,Airbnb,Transfer payment to Airbnb,debit,38837.46,Reconciled
+TX873774,25-Nov-25,Payroll,Travel,"8,896.69",EUR,Uber,Travel payment to Uber,debit,"4,242.80",Pending
+T-777292,31.03.2024,BUSINESS_ACC,Dining,1278.20usd,INR,Amazon,Dining payment to Amazon,debit,"36,280.72",pendng
+TX330069,12.08.2025,Savings,Refund,-424.07,INR,Shell,Refund payment to Shell,refund,41018.33,completed
+T-147504,09-02-2024,Payroll,Refund,"$9,196.41",,Starbucks,Refund payment to Starbucks,refund,13500.54,pendng
+TX673734,08-Sep-25,Savings,Transfer,"11,692.61",,Uber,Transfer payment to Uber,credit,18779.71,pendng
+TX901577,Mar 02 2025,Payroll,Investment,"-4,581.40",EUR,Water Board,Investment payment to Water Board,debit,"6,606.39",Pending
+TX653829,05-01-2025,Payroll,Rent,"12,817.44",EUR,Starbucks,Rent payment to Starbucks,credit,"44,438.91",Pending
+TX557420,22-01-2024,Credit Card,Insurance,"-12,801.95",INR,Shell,Insurance payment to Shell,DEBIT,17927.36,Failed
+TX218710,09-08-2025,Credit Card,Groceries,"$14,846.65",INR,Local Market,Groceries payment to Local Market,credit,19735.28,Reconciled
+TX719014,18.04.2024,Current,Investment,88.07usd,USD,Airbnb,Investment payment to Airbnb,CR,35387.58,Pending
+TX450006,Dec 24 2024,BUSINESS_ACC,Dining,"7,600.84",EUR,Amazon,Dining payment to Amazon,debit,16782.71,CANCELLED
+TX126985,30-07-2024,Current,Dining,"$9,915.94",USD,Local Market,Dining payment to Local Market,refund,"15,979.49",Reconciled
+TX375617,08/30/2024,Credit Card,Transfer,INR 6009,INR,Shell,Transfer payment to Shell,refund,"7,571.17",Pending
+TX700896,Nov 13 2024,Current,Refund,"6,914.58",EUR,Starbucks,Refund payment to Starbucks,CR,-87.68,Reconciled
+TX322409,19-10-2025,Credit Card,Utilities,"$11,477.60",,Uber,Utilities payment to Uber,credit,37590.27,Failed
+TX888931,07-10-2025,Credit Card,Transfer,-179.35,EUR,Water Board,Transfer payment to Water Board,credit,"34,783.47",completed
+TX929924,28-02-2024,Payroll,Utilities,"10,171.65",EUR,Starbucks,"Utilities payment to Starbucks, urgent",credit,15148.07,completed
+TX478798,Oct 22 2024,Current,Dining,"$12,616.51",EUR,Airbnb,Dining payment to Airbnb,CR,5383.17,Reconciled
+TX495833,19-01-2025,Payroll,Travel,1911.08usd,USD,Electric Co,Travel payment to Electric Co,debit,34550.17,Pending
+TX531762,05-04-2024,Savings,Insurance,INR 10098,EUR,Airbnb,Insurance payment to Airbnb,CR,"10,758.80",Pending
+TX690996,12.02.2024,BUSINESS_ACC,Dining,INR 9585,EUR,Water Board,Dining payment to Water Board,refund,21561.96,Failed
+TX688534,02-02-2025,BUSINESS_ACC,Groceries,"-11,821.88",,Flipkart,"Groceries payment to Flipkart, urgent",debit,29130.89,CANCELLED
+TX681542,02-11-2024,Credit Card,,"-9,072.84",,Starbucks,Salary payment to Starbucks,DEBIT,44948.75,CANCELLED
+TX396578,01.11.2024,Current,Investment,"11,443.33",EUR,Shell,Investment payment to Shell,DEBIT,8134.3,Reconciled
+TX157174,07/20/2025,Current,Groceries,5111.25 USD,INR,Local Market,Groceries payment to Local Market,CR,22046.06,Pending
+TX287847,Aug 02 2025,BUSINESS_ACC,TRAVEL,"$3,966.09",,Local Market,TRAVEL payment to Local Market,credit,16345.12,Completed
+TX941339,06-Sep-25,business_acc,Investment,"-6,069.58",INR,Airbnb,Investment payment to Airbnb,refund,34235.31,Reconciled
+TX809641,16-Nov-24,checking,Utilities,13418.02 USD,INR,Starbucks,Utilities payment to Starbucks,debit,1260.76,CANCELLED
+TX214027,02.09.2025,BUSINESS_ACC,Salary,"-13,548.94",,Starbucks,Salary payment to Starbucks,credit,11032.68,Pending
+TX256557,14.10.2024,BUSINESS_ACC,Utilities,1753.55 USD,USD,Flipkart,Utilities payment to Flipkart,DEBIT,-226.12,CANCELLED
+TX617033,01/22/2025,Current,Refund,1106.57 USD,EUR,Uber,Refund payment to Uber,DEBIT,"13,799.45",Completed
+TX272998,19-11-2024,Savings,INVESTMENT,INR 2747,USD,Starbucks,INVESTMENT payment to Starbucks,credit,"49,736.10",Failed
+TX321494,20.05.2024,Checking,Transfer,INR 3452,EUR,Flipkart,"Transfer payment to Flipkart, urgent",DEBIT,,Completed
+TX585363,02.07.2024,Checking,,6749.77 USD,INR,Local Market,Dining payment to Local Market,credit,49020.24,Reconciled
+TX715551,27.05.2024,Checking,Refund,"8,108.90",EUR,Flipkart,Refund payment to Flipkart,credit,-686.48,Completed
+TX149840,Oct 31 2024,BUSINESS_ACC,Refund,INR 8496,,Shell,Refund payment to Shell,CR,30834.52,Reconciled
+TX332542,14-01-2025,Current,Insurance,"$11,604.35",INR,Water Board,Insurance payment to Water Board,CR,"31,128.63",Completed
+TX871403,20-06-2025,Current,Refund,"5,225.27",INR,Flipkart,Refund payment to Flipkart,refund,4309.04,CANCELLED
+TX845702,09-11-2024,Credit Card,UTILITIES,INR 8339,EUR,Flipkart,UTILITIES payment to Flipkart,debit,,CANCELLED
+TX369452,08.05.2025,Checking,Salary,10863.53usd,,Uber,Salary payment to Uber,refund,-4234.47,pendng
+TX734356,09-09-2025,Payroll,Insurance,4995.13 USD,,Uber,Insurance payment to Uber,credit,"49,976.46",completed
+TX218448,Nov 20 2024,Credit Card,Utilities,317.09usd,INR,Shell,Utilities payment to Shell,debit,8182.17,pendng
+TX800722,19-Jan-24,Checking,Groceries,6974.95 USD,USD,Water Board,Groceries payment to Water Board,DEBIT,"14,812.05",pendng
+TX753323,Aug 24 2025,Savings,Refund,"$8,440.69",INR,Amazon,Refund payment to Amazon,DEBIT,43284.15,completed
+TX725113,Oct 09 24,Checking,Transfer,INR 9688,,Uber,Transfer payment to Uber,debit,33048.29,Reconciled
+,2024-99-99,,??,0,,,,,none,
+TX964352,??/??/????,BUSINESS_ACC,Travel,"$4,477.84",USD,Water Board,Travel payment to Water Board,debit,12882.54,pendng
+TX920597,11-04-2024,Savings,Insurance,INR 11417,INR,Water Board,Insurance payment to Water Board,credit,"6,445.98",Pending
+TX885650,29-03-2024,Savings,Salary,"$3,142.28",INR,Local Market,Salary payment to Local Market,debit,32231.03,completed
+TX149405,22-04-2024,Current,,14566.20 USD,,Local Market,Transfer payment to Local Market,debit,"9,675.39",Reconciled
+TX126225,08-10-2024,BUSINESS_ACC,Insurance,"$1,406.33",INR,Flipkart,"Insurance payment to Flipkart, urgent",refund,"30,743.64",completed
+TX749310,04/13/2024,Checking,Travel,"$8,928.03",USD,Amazon,Travel payment to Amazon,credit,22989.39,completed
+TX644153,08.02.2025,Current,Investment,"$2,166.05",USD,Flipkart,Investment payment to Flipkart,CR,"42,479.94",Reconciled
+TX237148,13-07-2024,Credit Card,Rent,"12,816.68",EUR,Water Board,Rent payment to Water Board,credit,38758.66,completed
+TX584045,02-Aug-24,Checking,Transfer,"-3,631.08",,Starbucks,"Transfer payment to Starbucks, urgent",CR,21357.91,CANCELLED
+TX797492,04.12.2024,current,Investment,2562.85usd,EUR,Local Market,Investment payment to Local Market,credit,34285.02,Completed
+TX749871,22-03-2024,Savings,Rent,8971.53usd,USD,Uber,Rent payment to Uber,DEBIT,,CANCELLED
+TX542983,Oct 28 2024,Savings,Investment,11681.19usd,INR,Electric Co,Investment payment to Electric Co,credit,-3629.83,Pending
+TX376106,Aug 15 2025,Current,Salary,"3,344.27",INR,Flipkart,Salary payment to Flipkart,DEBIT,"28,231.60",Pending
+TX277820,24-01-2025,Current,Utilities,"11,740.22",,Flipkart,Utilities payment to Flipkart,credit,"28,916.78",Completed
+TX905967,04-01-2025,Savings,Groceries,INR 7464,,Airbnb,Groceries payment to Airbnb,debit,6928.06,Reconciled
+TX227767,18-02-2024,Current,Investment,"-8,626.14",USD,WALMART,Investment payment to WALMART,debit,"17,911.22",Failed
+TX782535,18-07-2025,Savings,Investment,"4,688.54",,Amazon,Investment payment to Amazon,credit,17.36,pendng
+TX783157,03/28/2025,BUSINESS_ACC,Salary,10052.33 USD,USD,Flipkart,Salary payment to Flipkart,CR,39746.13,Failed
+TX551504,Nov 27 2024,Current,Dining,"-5,956.96",,Local Market,"Dining payment to Local Market, urgent",refund,,Pending
+TX756403,02-10-2025,Checking,Travel,"3,576.15",USD,Uber,Travel payment to Uber,debit,8020.9,Reconciled
+TX575786,10-04-2024,Savings,Insurance,"11,079.33",INR,Starbucks,Insurance payment to Starbucks,refund,"10,564.93",Pending
+TX832411,Sep 24 2024,BUSINESS_ACC,Travel,"$9,620.95",INR,WALMART,Travel payment to WALMART,CR,17036.4,Completed
+TX671598,04-08-2024,Payroll,Travel,"$13,091.16",EUR,Starbucks,"Travel payment to Starbucks, urgent",debit,34673.66,Pending
+TX534313,22.05.2024,Savings,Insurance,"8,860.59",,Amazon,Insurance payment to Amazon,debit,17798.27,CANCELLED
+TX963699,26-10-2025,Savings,Refund,"10,238.59",,Uber,Refund payment to Uber,debit,10555.59,Failed
+TX134963,01/21/2025,Savings,,-987.79,EUR,Water Board,INVESTMENT payment to Water Board,DEBIT,28951.61,CANCELLED
+TX734366,23-10-2025,Current,Insurance,"2,385.43",USD,WALMART,Insurance payment to WALMART,refund,"23,835.74",CANCELLED
+TX592972,14-02-2024,business_acc,Salary,"11,028.07",EUR,Amazon,Salary payment to Amazon,debit,30353.76,pendng
+TX893969,04-04-2025,Savings,UTILITIES,6531.46usd,USD,Amazon,UTILITIES payment to Amazon,refund,45279.57,Reconciled
+TX120896,23-Jun-25,Savings,Travel,"-2,216.53",INR,Shell,Travel payment to Shell,debit,47830.73,Reconciled
+TX531071,23.04.2025,BUSINESS_ACC,Transfer,"2,853.94",USD,Amazon,Transfer payment to Amazon,CR,43096.73,CANCELLED
+TX621691,11.01.2025,BUSINESS_ACC,Transfer,"$4,818.85",EUR,Starbucks,Transfer payment to Starbucks,DEBIT,18436.38,Completed
+TX885884,07-06-2024,Savings,Groceries,"-6,176.29",INR,Shell,Groceries payment to Shell,credit,945.26,Pending
+TX606390,04.06.2025,Payroll,Utilities,4828.33 USD,,Water Board,Utilities payment to Water Board,refund,10047.77,Reconciled
+TX400096,Aug 23 2024,Savings,Utilities,INR 6612,,WALMART,Utilities payment to WALMART,credit,"36,111.45",completed
+TX273878,03/13/2025,Payroll,,13864.88 USD,EUR,Flipkart,Transfer payment to Flipkart,refund,2849.24,Reconciled
+TX613406,01-Apr-25,Current,Transfer,"$9,460.66",EUR,Water Board,Transfer payment to Water Board,refund,"7,332.66",Reconciled
+TX684632,31-07-2024,credit card,Groceries,"$13,805.85",,Water Board,Groceries payment to Water Board,CR,10640.93,completed
+TX969250,17.08.2025,Checking,Salary,"8,765.31",,Shell,Salary payment to Shell,credit,874.77,Reconciled
+TX839893,16-Aug-25,Credit Card,Groceries,"$2,708.44",EUR,WALMART,Groceries payment to WALMART,refund,"1,305.45",Pending
+TX570622,26-01-2025,Checking,Insurance,"9,781.34",,Flipkart,Insurance payment to Flipkart,DEBIT,30988.88,pendng
+TX608205,Sep 03 2025,Current,GROCERIES,"-7,349.50",USD,Electric Co,GROCERIES payment to Electric Co,DEBIT,"49,779.69",Completed
+TX878533,Aug 08 2025,BUSINESS_ACC,Insurance,637.20usd,,Local Market,Insurance payment to Local Market,CR,16306.88,Pending
+TX744755,07-03-2024,BUSINESS_ACC,Travel,INR 10687,EUR,Local Market,Travel payment to Local Market,CR,9758.45,completed
+TX195136,17-Jan-24,Current,REFUND,"-2,080.22",,Local Market,REFUND payment to Local Market,DEBIT,-4925,pendng
+,,,??,free,XYZ,???,###,,none,unknown
+TX515131,08-11-2024,Savings,Travel,"1,261.34",EUR,Amazon,Travel payment to Amazon,DEBIT,23174.41,Reconciled
+TX515623,Mar 24 2025,Savings,Refund,"14,628.14",EUR,Starbucks,Refund payment to Starbucks,refund,7807.83,CANCELLED
+TX636107,Jul 23 2025,Checking,Utilities,"3,748.60",USD,Shell,Utilities payment to Shell,DEBIT,45483.5,CANCELLED
+TX755744,22.09.2025,Payroll,Salary,INR 14354,EUR,Shell,Salary payment to Shell,refund,17187.94,pendng
+TX861894,07-Jun-24,Payroll,DINING,"$6,670.99",EUR,Shell,DINING payment to Shell,DEBIT,24945.62,Reconciled
+TX197649,11-02-2024,Checking,INSURANCE,"10,419.60",,Local Market,INSURANCE payment to Local Market,refund,6497.8,pendng
+TX591989,01-07-2025,Current,Transfer,109.26,INR,Water Board,Transfer payment to Water Board,CR,8744.29,CANCELLED
+TX433193,Sep 09 2025,BUSINESS_ACC,Utilities,"5,593.09",EUR,Flipkart,Utilities payment to Flipkart,DEBIT,25856.82,pendng
+TX428399,30-04-2024,BUSINESS_ACC,Transfer,INR 6346,,Starbucks,Transfer payment to Starbucks,refund,49994.48,Pending
+TX958729,22.10.2025,Credit Card,Refund,INR 11592,EUR,Amazon,Refund payment to Amazon,refund,45828.48,completed
+TX456778,11-10-2024,Checking,Salary,"-12,107.12",,Shell,"Salary payment to Shell, urgent",CR,29575.19,Pending
+TX789786,30-09-2024,Credit Card,TRAVEL,"$6,012.36",USD,Starbucks,TRAVEL payment to Starbucks,debit,"15,690.69",Failed
+TX295361,23-10-2024,Checking,,"$13,339.01",,Electric Co,Travel payment to Electric Co,refund,1195.57,Failed
+TX491979,08.06.2024,BUSINESS_ACC,Refund,"$10,407.23",INR,Airbnb,Refund payment to Airbnb,CR,35700.71,CANCELLED
+TX223172,25.10.2025,Credit Card,Dining,INR 3656,,Local Market,Dining payment to Local Market,CR,"36,046.09",CANCELLED
+TX180558,10-06-2025,Checking,Utilities,"10,274.82",INR,Shell,Utilities payment to Shell,DEBIT,,completed
+TX697467,08-Sep-24,Credit Card,Investment,"10,991.85",USD,Local Market,Investment payment to Local Market,credit,45429.47,Completed
+TX524707,01/22/2024,Current,Travel,INR 8833,,Amazon,Travel payment to Amazon,CR,"7,186.46",pendng
+TX262062,30-05-2025,Payroll,Insurance,"12,038.90",,Electric Co,Insurance payment to Electric Co,debit,-4044.13,Pending
+TX762985,24-10-2025,Credit Card,Investment,"$2,650.10",INR,Airbnb,Investment payment to Airbnb,CR,16455.76,Reconciled
+TX563298,??/??/????,Checking,Utilities,"$2,222.26",EUR,Shell,Utilities payment to Shell,DEBIT,,Failed
+TX321092,Sep 17 2025,BUSINESS_ACC,,"9,934.49",INR,Local Market,Dining payment to Local Market,credit,-4126.9,Completed
+TX494747,07.07.2024,Savings,Utilities,INR 14516,,WALMART,Utilities payment to WALMART,credit,13164.46,Failed
+TX484208,23.12.2024,BUSINESS_ACC,Salary,$847.68,EUR,Shell,Salary payment to Shell,credit,45071.4,Failed
+TX105274,Aug 09 2025,Checking,Travel,"-2,760.71",USD,Electric Co,Travel payment to Electric Co,debit,41873.81,completed
+,,Chcking,??,0,XYZ,???,,,none,
+TX830302,14-11-2025,Payroll,Refund,"12,276.26",INR,WALMART,Refund payment to WALMART,refund,"26,499.29",Reconciled
+TX398357,13.11.2025,Savings,Insurance,8735.95 USD,EUR,Amazon,Insurance payment to Amazon,debit,17662.91,Pending
+TX181961,12-03-2025,Savings,Utilities,"-6,724.62",EUR,Airbnb,Utilities payment to Airbnb,CR,16903.45,completed
+TX813213,14-Jun-25,Checking,RENT,"4,744.31",,Flipkart,RENT payment to Flipkart,DEBIT,-3604.54,Reconciled
+TX138669,24-May-24,payroll,UTILITIES,"$12,311.27",,WALMART,UTILITIES payment to WALMART,refund,39979.01,CANCELLED
+TX563688,10-08-2025,Credit Card,Dining,"$12,475.62",,Walmart,Dining payment to Walmart,debit,20449.14,Completed
+TX263137,10.06.2024,Credit Card,Transfer,INR 3234,INR,Local Market,Transfer payment to Local Market,DEBIT,32316.74,Completed
+TX213844,17-01-2024,BUSINESS_ACC,Utilities,"$9,221.61",EUR,,Utilities payment to Starbucks,refund,21523.25,CANCELLED
+TX589887,07-07-2025,BUSINESS_ACC,,INR 9597,INR,Water Board,Refund payment to Water Board,DEBIT,-74.53,Pending
+,32/13/2024,Chcking,??,0,XYZ,UnknownMerchant,###,,NaN,
+TX174809,22-03-2024,BUSINESS_ACC,Dining,6674.03 USD,USD,Flipkart,Dining payment to Flipkart,refund,"4,202.50",Pending
+TX323095,Feb 07 2024,Payroll,Utilities,8844.42 USD,INR,Uber,Utilities payment to Uber,refund,22619.2,CANCELLED
+TX145814,02/24/2025,Current,Investment,INR 12129,INR,Uber,Investment payment to Uber,credit,"49,144.19",Reconciled
+TX530764,28.12.2024,BUSINESS_ACC,Dining,"$7,611.68",USD,Shell,Dining payment to Shell,CR,41495.54,completed
+TX561567,14-10-2025,Credit Card,Dining,INR 6960,,Amazon,Dining payment to Amazon,CR,24288.65,Reconciled
+TX742254,Jul 09 2025,Checking,Travel,"13,650.15",INR,WALMART,Travel payment to WALMART,debit,"29,052.34",completed
+TX515011,01.11.2024,Current,Insurance,INR 4094,USD,Uber,Insurance payment to Uber,CR,17237.42,Pending
+TX527288,??/??/????,Payroll,Salary,INR 1884,EUR,Electric Co,Salary payment to Electric Co,CR,6190.13,Pending
+TX673167,09-09-2025,Credit Card,Salary,"$1,791.19",USD,Starbucks,Salary payment to Starbucks,DEBIT,27119.23,pendng
+TX575244,18.11.2025,BUSINESS_ACC,Utilities,12358.80 USD,INR,Uber,Utilities payment to Uber,refund,44875.97,Completed
+TX938817,19.09.2025,BUSINESS_ACC,Dining,"-4,344.64",EUR,Amazon,Dining payment to Amazon,DEBIT,12635.4,Completed
+TX940480,05-04-2025,Credit Card,Insurance,"$1,148.91",USD,Water Board,Insurance payment to Water Board,debit,20556.11,Failed
+TX255130,16-Jan-25,Credit Card,Groceries,14216.89 USD,EUR,Local Market,Groceries payment to Local Market,refund,"33,799.82",CANCELLED
+TX528468,22-04-2024,Payroll,Travel,7289.40 USD,USD,Shell,Travel payment to Shell,refund,"11,784.02",pendng
+TX821634,??/??/????,Checking,Refund,"$11,693.11",,Starbucks,Refund payment to Starbucks,debit,"20,121.32",Completed
+TX209167,23-05-2025,Credit Card,Utilities,"-10,050.70",INR,Amazon,Utilities payment to Amazon,debit,"-1,271.29",Completed
+TX829987,01.03.2024,Payroll,Refund,"-11,687.69",INR,Starbucks,Refund payment to Starbucks,credit,"43,817.67",pendng
+TX551533,Oct 28 2025,BUSINESS_ACC,Travel,"-4,372.43",USD,Flipkart,Travel payment to Flipkart,refund,10416.51,completed
+TX910065,19.11.2025,Savings,Insurance,INR 8351,EUR,Airbnb,Insurance payment to Airbnb,credit,22259.14,pendng
+TX829169,08/27/2024,Checking,Insurance,"$13,899.16",INR,Amazon,Insurance payment to Amazon,debit,"13,356.68",pendng
+TX229545,03-04-2024,Checking,Transfer,INR 2399,,Electric Co,Transfer payment to Electric Co,debit,"26,102.04",CANCELLED
+TX197545,14-02-2024,BUSINESS_ACC,Investment,"-7,581.91",,Amazon,Investment payment to Amazon,refund,"48,032.01",Failed
+,,Chcking,??,$-,XYZ,???,,,none,
+TX181247,19-10-2024,Payroll,Utilities,964.37,EUR,,Utilities payment to Starbucks,refund,40809.01,pendng
+TX516332,15-04-2024,Payroll,Transfer,"$9,271.91",,Amazon,Transfer payment to Amazon,CR,"10,629.64",CANCELLED
+TX313933,Dec 14 2024,Credit Card,Travel,"$7,725.19",INR,Starbucks,Travel payment to Starbucks,credit,"8,635.54",Reconciled
+TX608149,19-05-2024,Payroll,Transfer,"$6,658.33",EUR,Flipkart,"Transfer payment to Flipkart, urgent",refund,11064.95,Pending
+TX799061,09-Sep-25,Savings,Salary,"$9,425.94",USD,Local Market,Salary payment to Local Market,debit,,Pending
+TX354125,04-05-2025,BUSINESS_ACC,Utilities,"$2,211.36",INR,Local Market,Utilities payment to Local Market,refund,-4321.44,Reconciled
+TX909859,Nov 26 2025,Checking,Dining,"$14,110.20",USD,Amazon,Dining payment to Amazon,DEBIT,"23,661.32",pendng
+TX200501,12/25/2025,Savings,Rent,INR 5000,INR,Local Market,Rent payment TO Local Market,debit,12500,completed
+TX200502,15-05-2024,Credit Card,Utilities,"$1,200.50",USD,Water Board,Utilities payment to WATER board,DEBIT,450.2,Pending
+TX200503,Jun 10 2025,Checking,Groceries,450.00 USD,USD,WALMART,Groceries payment to walmart,credit,"1,200.00",Reconciled
+TX200504,2024.11.20,Payroll,,1500,EUR,Amazon,Salary payment to AMAZON,CR,8900.5,pendng
+TX200505,09/15/2024,Savings,Travel,INR 12500,INR,,Travel payment to AIRBNB,refund,,CANCELLED
+TX200506,01-Feb-25,BUSINESS_ACC,Investment,8000.00usd,USD,Flipkart,Investment payment to flipkart,debit,-500,Completed
+TX200507,14-08-2025,Current,Dining,$45.20,,Uber,Dining payment TO Uber,debit,10250.75,Failed
+TX200508,12-12-2024,Checking,Insurance,-500,EUR,Electric Co,Insurance payment to ELECTRIC co,DEBIT,4500,Reconciled
+TX200509,30-05-2024,Credit Card,Salary,INR 65000,INR,Local Market,Salary payment to local MARKET,credit,75000,completed
+TX200510,19.03.2025,Savings,Groceries,250.75 USD,,Starbucks,Groceries payment to STARBUCKS,debit,3400,pendng
+TX200511,01-01-2025,Payroll,Refund,100,USD,Flipkart,Refund payment TO flipkart,refund,,Failed
+TX200512,22-Oct-24,Current,Utilities,$150.00,EUR,Water Board,Utilities payment to Water BOARD,debit,1200.4,CANCELLED
+TX200513,05-11-2025,Checking,,4500,INR,Amazon,Investment payment to AMAZON,CR,5600,Pending
+TX200514,2024.12.31,Credit Card,Travel,INR 890,INR,,Travel payment to SHELL,debit,230,Reconciled
+TX200515,11-04-2024,Savings,Rent,1200.00usd,USD,Airbnb,Rent payment to airbnb,credit,4500,completed
+TX200516,14-May-25,BUSINESS_ACC,Dining,$35.00,,Uber,Dining payment TO uber,debit,,pendng
+TX200517,18-04-2025,Current,Insurance,INR 5600,INR,Electric Co,Insurance payment to Electric CO,DEBIT,12000,Failed
+TX200518,09-09-2024,Payroll,Salary,7000.00 USD,USD,WALMART,Salary payment to walmart,CR,"15,000.00",completed
+TX200519,22-07-2024,Checking,Groceries,120.5,,Starbucks,Groceries payment to Starbucks,debit,890,CANCELLED
+TX200520,28.02.2025,Savings,Investment,"$1,000.00",EUR,Flipkart,Investment payment to FLIPKART,refund,-200,Pending
+TX200521,03-12-2024,Checking,Insurance,1200.00usd,,flipkart,Insurance payment to flipkart,credit,2000,completed
+TX200522,11-Nov-24,Credit Card,Utilities,INR 300,INR,Water Board,Utilities payment to water BOARD,debit,150,Reconciled
+TX200523,15-03-2025,Current,Refund,50.00 USD,,Local Market,Refund payment TO Local Market,credit,2500,completed
+TX200524,08/19/2024,Savings,,1200,EUR,Amazon,Groceries payment to amazon,debit,,pendng
+TX200525,19-06-2025,Checking,Travel,INR 4500,INR,Uber,Travel payment TO Uber,debit,5600,Failed
+TX200526,2024.10.10,Payroll,Dining,25.00usd,USD,,Dining payment to starbucks,DEBIT,45,CANCELLED
+TX200527,05-Jan-25,BUSINESS_ACC,Salary,"$9,000.00",USD,Electric Co,Salary payment to ELECTRIC co,CR,18000,completed
+TX200528,12-09-2025,Current,Insurance,450,,Flipkart,Insurance payment to flipkart,debit,1200,Pending
+TX200529,15.04.2024,Savings,Groceries,INR 150,INR,WALMART,Groceries payment to WALMART,debit,670,Reconciled
+TX200530,28-02-2024,Checking,,3400.00 USD,USD,Airbnb,Rent payment TO airbnb,credit,5000,pendng
+TX200531,07-07-2025,Credit Card,Utilities,$85.00,EUR,Water Board,Utilities payment to Water BOARD,debit,,Failed
+TX200532,22-Aug-24,Savings,Investment,INR 10000,INR,Amazon,Investment payment to amazon,refund,25000,CANCELLED
+TX200533,2025.06.30,Payroll,Travel,450.00usd,,Uber,Travel payment to UBER,debit,120,completed
+TX200534,10-10-2024,Current,Dining,15.5,USD,Starbucks,Dining payment TO Starbucks,DEBIT,450,Pending
+TX200535,12-01-2025,Checking,Salary,"$5,500.00",EUR,Electric Co,Salary payment to Electric CO,CR,12500,Reconciled
+TX200536,15-11-2024,Credit Card,,INR 200,INR,Flipkart,Refund payment to flipkart,credit,,pendng
+TX200537,18.08.2024,Savings,Insurance,350.00 USD,USD,,Insurance payment to shell,debit,900,Failed
+TX200538,05-05-2025,BUSINESS_ACC,Groceries,75,,WALMART,Groceries payment to WALMART,DEBIT,150,CANCELLED
+TX200539,30-Sep-24,Current,Travel,INR 15000,INR,Airbnb,Travel payment TO airbnb,credit,22000,completed
+TX200540,04/14/2025,Checking,Refund,20.00usd,USD,Uber,Refund payment to Uber,refund,45,Pending
+TX200541,03-03-2025,Payroll,Utilities,$110.00,EUR,Water Board,Utilities payment to Water BOARD,debit,,Reconciled
+TX200542,01-01-2025,Checking,Groceries,45.99,USD,Target,Weekly groceries at Target,debit,1200,Completed
+TX200543,2024.01.20,Savings,Investment,INR 500,INR,Amazon,Investment payment to AMAZON,credit,1200,pendng
+TX200544,14-07-2025,Credit Card,Dining,45.00 USD,USD,Starbucks,Dining payment TO starbucks,debit,30,Failed
+TX200545,10-10-2025,Current,Salary,"$6,000.00",,Electric Co,Salary payment to electric CO,CR,15000,CANCELLED
+TX200546,11-11-2024,Checking,Groceries,INR 85,INR,Flipkart,Groceries payment to flipkart,debit,200,completed
+TX200547,25.12.2024,Savings,Insurance,400.00usd,USD,Water Board,Insurance payment TO Water board,DEBIT,,Pending
+TX200548,01-Jun-25,Payroll,Travel,1200,EUR,,Travel payment to AIRBNB,credit,3400,Reconciled
+TX200549,18-09-2024,BUSINESS_ACC,Dining,$22.50,USD,Uber,Dining payment to uber,debit,55,pendng
+TX200550,15-02-2025,Current,Refund,INR 100,INR,WALMART,Refund payment TO walmart,refund,1000,Failed
+TX200551,2025.04.04,Savings,Utilities,130.00 USD,,Electric Co,Utilities payment to electric CO,debit,450,CANCELLED
+TX200552,12/20/2024,Checking,Salary,"$4,500.00",EUR,Amazon,Salary payment to AMAZON,CR,,completed
+TX200553,20-Nov-24,Credit Card,Groceries,INR 350,INR,Starbucks,Groceries payment TO Starbucks,debit,120,Pending
+TX200554,30-08-2024,Payroll,Investment,2500.00usd,USD,Flipkart,Investment payment to flipkart,credit,5600,Reconciled
+TX200555,12.12.2024,Current,Travel,45,,Uber,Travel payment TO Uber,debit,100,pendng
+TX200556,01-07-2025,Savings,Insurance,INR 600,INR,Water Board,Insurance payment to water BOARD,DEBIT,,Failed
+TX200557,05/15/2025,Checking,Dining,$18.00,USD,WALMART,Dining payment to WALMART,debit,45,CANCELLED
+TX200558,05-05-2025,Credit Card,Salary,5000.00 EUR,EUR,Electric Co,Salary payment TO Electric CO,CR,12000,completed
+TX200559,2024.03.15,Payroll,Groceries,INR 120,INR,Amazon,Groceries payment to amazon,debit,890,Pending
+TX200560,22-Jan-25,Current,Refund,35.00usd,,Flipkart,Refund payment TO flipkart,refund,,Reconciled
+TX200561,12-06-2025,Savings,Utilities,$95.00,USD,Water Board,Utilities payment to Water BOARD,debit,300,pendng
+TX200562,09-09-2024,Checking,Travel,INR 1200,INR,Airbnb,Travel payment to airbnb,credit,4500,Failed
+TX200563,11-11-2025,Payroll,Dining,INR 450,INR,Uber,Dining payment to UBER,debit,1200,completed
+TX200564,15-Aug-25,Savings,Insurance,100.00usd,USD,,Insurance payment TO Shell,refund,500,Reconciled
+TX200565,2024.05.20,Checking,Utilities,$200.00,EUR,Electric Co,Utilities payment to ELECTRIC co,debit,,Pending
+TX200566,02/14/2025,Current,Dining,INR 850,INR,Zomato,Dining payment TO zomato,debit,15600,completed
+TX200567,19-06-2024,Credit Card,Travel,"$4,200.00",USD,Airbnb,Travel payment to AIRBNB,DEBIT,"-1,200.00",Pending
+TX200568,Nov 05 2025,Savings,Groceries,120.00 EUR,EUR,Local Market,Groceries payment to local market,credit,4500.25,Reconciled
+TX200569,2024.12.12,Payroll,,2300,USD,Amazon,Salary payment to AMAZON,CR,12000,pendng
+TX200570,08/22/2024,Checking,Utilities,INR 4500,INR,,Utilities payment to ELECTRIC co,refund,340,CANCELLED
+TX200571,15-Mar-25,BUSINESS_ACC,Investment,15000.00usd,USD,Flipkart,Investment payment to flipkart,debit,56000,Completed
+TX200572,30-10-2025,Current,Refund,$12.50,,Uber,Refund payment TO Uber,debit,890.75,Failed
+TX200573,04-12-2024,Savings,Insurance,"-1,200.00",EUR,Water Board,Insurance payment to WATER board,DEBIT,2300,Reconciled
+TX200574,14-02-2024,Credit Card,Salary,INR 45000,INR,Local Market,Salary payment to local MARKET,credit,55000,completed
+TX200575,29.05.2025,Checking,Groceries,85.25 USD,,Starbucks,Groceries payment to STARBUCKS,debit,1200,pendng
+TX200576,15-06-2025,Payroll,Travel,500,USD,Airbnb,Travel payment TO airbnb,refund,,Failed
+TX200577,11-Jan-25,Current,Utilities,$95.00,EUR,Electric Co,Utilities payment to Electric CO,debit,1500.4,CANCELLED
+TX200578,07-11-2025,Savings,,3200,INR,Amazon,Investment payment to AMAZON,CR,7800,Pending
+TX200579,2024.10.05,Credit Card,Rent,INR 12000,INR,,Rent payment to SHELL,debit,450,Reconciled
+TX200580,03-03-2024,Checking,Dining,45.00usd,USD,Uber,Dining payment to uber,credit,120,completed
+TX200581,25-May-25,BUSINESS_ACC,Insurance,$450.00,,Flipkart,Insurance payment TO flipkart,debit,,pendng
+TX200582,18-01-2025,Current,Groceries,INR 1200,INR,WALMART,Groceries payment to WALMART,DEBIT,6700,Failed
+TX200583,12-09-2024,Payroll,Salary,8200.00 USD,USD,Local Market,Salary payment to local market,CR,"22,000.00",completed
+TX200584,11-08-2024,Checking,Travel,340.5,,Uber,Travel payment to Uber,debit,1450,CANCELLED
+TX200585,15.12.2025,Savings,Investment,"$2,500.00",EUR,Flipkart,Investment payment to FLIPKART,refund,12000,Pending
+TX200586,20-Nov-24,Current,Refund,INR 50,INR,Amazon,Refund payment TO Amazon,credit,1000,Reconciled
+TX200587,11-04-2025,Credit Card,Utilities,INR 600,INR,Water Board,Utilities payment to water BOARD,debit,250,Reconciled
+TX200588,22-04-2025,Current,Dining,120.00 USD,,Starbucks,Dining payment TO Starbucks,credit,3400,completed
+TX200589,09/19/2024,Savings,,850,EUR,Uber,Groceries payment to uber,debit,,pendng
+TX200590,28-06-2025,Checking,Travel,INR 9000,INR,,Travel payment TO Airbnb,debit,1200,Failed
+TX200591,2024.11.11,Payroll,Dining,35.00usd,USD,WALMART,Dining payment to WALMART,DEBIT,85,CANCELLED
+TX200592,02-Feb-25,BUSINESS_ACC,Salary,"$10,000.00",USD,Electric Co,Salary payment to ELECTRIC co,CR,25000,completed
+TX200593,25-07-2025,Current,Insurance,120,,Flipkart,Insurance payment to flipkart,debit,500,Pending
+TX200594,14.05.2024,Savings,Groceries,INR 300,INR,Local Market,Groceries payment to Local Market,debit,1200,Reconciled
+TX200595,18-05-2024,Checking,,5600.00 USD,USD,Amazon,Rent payment TO amazon,credit,8900,pendng
+TX200596,15-07-2025,Credit Card,Utilities,$115.00,EUR,Water Board,Utilities payment to Water BOARD,debit,,Failed
+TX200597,10-Sep-24,Savings,Investment,INR 5000,INR,,Investment payment to amazon,refund,15000,CANCELLED
+TX200598,2025.07.22,Payroll,Travel,120.00usd,,Uber,Travel payment to UBER,debit,55,completed
+TX200599,11-11-2024,Current,Dining,42.5,USD,Starbucks,Dining payment TO Starbucks,DEBIT,120,Pending
+TX200600,14-02-2025,Checking,Salary,"$4,800.00",EUR,Electric Co,Salary payment to Electric CO,CR,9500,Reconciled
+TX200601,05-12-2024,Credit Card,,INR 450,INR,Flipkart,Refund payment to flipkart,credit,,pendng
+TX200602,20.09.2024,Savings,Insurance,125.00 USD,USD,Shell,Insurance payment to shell,debit,450,Failed
+TX200603,10-06-2025,BUSINESS_ACC,Groceries,95,,WALMART,Groceries payment to WALMART,DEBIT,340,CANCELLED
+TX200604,05-Oct-24,Current,Travel,INR 12000,INR,Airbnb,Travel payment TO airbnb,credit,18000,completed
+TX200605,05/15/2025,Checking,Refund,45.00usd,USD,Uber,Refund payment to Uber,refund,90,Pending
+TX200606,04-04-2025,Payroll,Utilities,$150.00,EUR,Water Board,Utilities payment to Water BOARD,debit,,Reconciled
+TX200607,02-02-2025,Savings,Groceries,INR 800,INR,Amazon,Groceries payment to amazon,debit,1500,pendng
+TX200608,18-08-2025,Credit Card,Dining,55.00 USD,USD,Starbucks,Dining payment TO starbucks,debit,25,Failed
+TX200609,15-11-2025,Current,Salary,"$7,200.00",,Electric Co,Salary payment to electric CO,CR,20000,CANCELLED
+TX200610,12-12-2024,Checking,Groceries,INR 120,INR,Flipkart,Groceries payment to flipkart,debit,350,completed
+TX200611,30.12.2024,Savings,Insurance,250.00usd,USD,,Insurance payment TO Shell,DEBIT,,Pending
+TX200612,10-Jun-25,Payroll,Travel,1500,EUR,Airbnb,Travel payment to AIRBNB,credit,5000,Reconciled
+TX200613,20-10-2024,BUSINESS_ACC,Dining,$45.00,USD,Uber,Dining payment to uber,debit,12,pendng
+TX200614,20-03-2025,Current,Refund,INR 250,INR,WALMART,Refund payment TO walmart,refund,1500,Failed
+TX200615,2025.05.05,Savings,Utilities,180.00 USD,,Electric Co,Utilities payment to electric CO,debit,850,CANCELLED
+TX200616,12/25/2024,Checking,Salary,"$5,000.00",EUR,Amazon,Salary payment to AMAZON,CR,,completed
+TX200617,25-Nov-24,Credit Card,Groceries,INR 450,INR,Starbucks,Groceries payment TO Starbucks,debit,300,Pending
+TX200618,15-09-2024,Payroll,Investment,3000.00usd,USD,Flipkart,Investment payment to flipkart,credit,9000,Reconciled
+TX200619,15.12.2024,Current,Travel,65,,Uber,Travel payment TO Uber,debit,150,pendng
+TX200620,10-08-2025,Savings,Insurance,INR 800,INR,Water Board,Insurance payment to water BOARD,DEBIT,,Failed
+TX200621,06/20/2025,Checking,Dining,$25.00,USD,WALMART,Dining payment to WALMART,debit,65,CANCELLED
+TX200622,10-10-2025,Credit Card,Salary,6500.00 EUR,EUR,Electric Co,Salary payment TO Electric CO,CR,18000,completed
+TX200623,2024.04.20,Payroll,Groceries,INR 200,INR,Amazon,Groceries payment to amazon,debit,1200,Pending
+TX200624,28-Jan-25,Current,Refund,55.00usd,,Flipkart,Refund payment TO flipkart,refund,,Reconciled
+TX200625,20-07-2025,Savings,Utilities,$110.00,USD,Water Board,Utilities payment to Water BOARD,debit,500,pendng
+TX200626,10-10-2024,Checking,Travel,INR 1500,INR,Airbnb,Travel payment to airbnb,credit,6000,Failed
+TX200627,15-12-2025,Payroll,Dining,INR 500,INR,Uber,Dining payment to UBER,debit,1500,completed
+TX200628,20-Aug-25,Savings,Insurance,120.00usd,USD,Shell,Insurance payment TO Shell,refund,800,Reconciled
+TX200629,2024.06.25,Checking,Utilities,$250.00,EUR,Electric Co,Utilities payment to ELECTRIC co,debit,,Pending
+TX200630,01-01-2025,Savings,Salary,INR 35000,INR,Local Market,Salary payment to local market,credit,45000,completed
+TX200631,03/15/2025,Checking,Dining,INR 450,INR,Uber,Dining payment TO uber,debit,1250,completed
+TX200632,12-11-2024,Credit Card,Travel,"$2,300.50",USD,Airbnb,Travel payment to AIRBNB,DEBIT,5400,Pending
+TX200633,Jan 20 2025,Savings,Groceries,85.00 EUR,EUR,Local Market,Groceries payment to local market,credit,9800,Reconciled
+TX200634,2024.08.30,Payroll,,1200,USD,Amazon,Salary payment to AMAZON,CR,15000.5,pendng
+TX200635,05-12-2024,Checking,Utilities,INR 3200,INR,,Utilities payment to ELECTRIC co,refund,450,CANCELLED
+TX200636,18-Apr-25,BUSINESS_ACC,Investment,12000.00usd,USD,Flipkart,Investment payment to flipkart,debit,42000,Completed
+TX200637,05-11-2025,Current,Refund,$15.20,,Uber,Refund payment TO Uber,debit,760.25,Failed
+TX200638,06-10-2024,Savings,Insurance,-800,EUR,Water Board,Insurance payment to WATER board,DEBIT,1900,Reconciled
+TX200639,22-03-2024,Credit Card,Salary,INR 38000,INR,Local Market,Salary payment to local MARKET,credit,40000,completed
+TX200640,15.06.2025,Checking,Groceries,65.75 USD,,Starbucks,Groceries payment to STARBUCKS,debit,900,pendng
+TX200641,28-09-2025,Payroll,Travel,450,USD,Airbnb,Travel payment TO airbnb,refund,,Failed
+TX200642,14-Feb-25,Current,Utilities,$110.00,EUR,Electric Co,Utilities payment to Electric CO,debit,1200,CANCELLED
+TX200643,09-12-2025,Savings,,2800,INR,Amazon,Investment payment to AMAZON,CR,6500,Pending
+TX200644,2024.11.15,Credit Card,Rent,INR 10000,INR,,Rent payment to SHELL,debit,850,Reconciled
+TX200645,04-04-2024,Checking,Dining,35.00usd,USD,Uber,Dining payment to uber,credit,210,completed
+TX200646,28-Jun-25,BUSINESS_ACC,Insurance,$320.00,,Flipkart,Insurance payment TO flipkart,debit,,pendng
+TX200647,10-02-2025,Current,Groceries,INR 950,INR,WALMART,Groceries payment to WALMART,DEBIT,5400,Failed
+TX200648,10-12-2024,Payroll,Salary,7500.00 USD,USD,Local Market,Salary payment to local market,CR,"18,500.00",completed
+TX200649,14-09-2024,Checking,Travel,280.5,,Uber,Travel payment to Uber,debit,1100,CANCELLED
+TX200650,22.12.2025,Savings,Investment,"$3,000.00",EUR,Flipkart,Investment payment to FLIPKART,refund,15000,Pending
